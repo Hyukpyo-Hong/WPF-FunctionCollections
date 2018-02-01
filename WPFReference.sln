@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic", "Basic\Basic.csproj", "{BB34F6D0-336B-4788-8124-D7A7CBD77092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTreeView", "WpfTreeView\WpfTreeView.csproj", "{DC6EFADD-B0BD-4734-A67D-E54571D85CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB34F6D0-336B-4788-8124-D7A7CBD77092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB34F6D0-336B-4788-8124-D7A7CBD77092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB34F6D0-336B-4788-8124-D7A7CBD77092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB34F6D0-336B-4788-8124-D7A7CBD77092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6EFADD-B0BD-4734-A67D-E54571D85CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6EFADD-B0BD-4734-A67D-E54571D85CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6EFADD-B0BD-4734-A67D-E54571D85CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6EFADD-B0BD-4734-A67D-E54571D85CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

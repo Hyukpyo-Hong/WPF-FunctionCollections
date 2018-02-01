@@ -1,0 +1,15 @@
+C:\Users\hhong\Projects\WPF\Basic\Basic\bin\Debug\Basic.exe.config
+C:\Users\hhong\Projects\WPF\Basic\Basic\bin\Debug\Basic.exe
+C:\Users\hhong\Projects\WPF\Basic\Basic\bin\Debug\Basic.pdb
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\MainWindow.baml
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\TreeViews.baml
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\MainWindow.g.cs
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\TreeViews.g.cs
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\App.g.cs
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\Basic_MarkupCompile.cache
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\Basic.g.resources
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\Basic.Properties.Resources.resources
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\WPFReference.csproj.GenerateResource.Cache
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\Basic.exe
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\Basic.pdb
+C:\Users\hhong\Projects\WPF\Basic\Basic\obj\Debug\WPFReference.csprojResolveAssemblyReference.cache
